@@ -15,4 +15,4 @@ spec:
     operator:
       create: true
     queueWorker:
-      replicas: 2
+      replicas: 4
